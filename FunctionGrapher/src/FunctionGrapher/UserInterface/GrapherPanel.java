@@ -4,6 +4,7 @@
  */
 package FunctionGrapher.UserInterface;
 
+import javax.swing.JOptionPane;
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Dimension;
@@ -27,7 +28,6 @@ import java.util.List;
 
 import FunctionGrapher.MathFunction.MathFunctionOneVar;
 import FunctionGrapher.Exception.MathFunctionException;
-import javax.swing.JOptionPane;
 
 /**
  *
